@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.6\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Rahat/Git/CircularProgressView/circularprogressview/src/main/res/values/values.xml -->
+    <eat-comment/>
+    <bool name="cpv_default_anim_autostart">false</bool>
+    <bool name="cpv_default_is_indeterminate">false</bool>
+    <color name="cpv_default_color">#2196F3</color>
+    <declare-styleable name="CircularProgressView"><attr format="float" name="cpv_progress"/><attr format="float" name="cpv_maxProgress"/><attr format="integer" name="cpv_animDuration"/><attr format="integer" name="cpv_animSwoopDuration"/><attr format="integer" name="cpv_animSyncDuration"/><attr format="color" name="cpv_color"/><attr format="dimension" name="cpv_thickness"/><attr format="boolean" name="cpv_indeterminate"/><attr format="boolean" name="cpv_animAutostart"/><attr format="integer" name="cpv_animSteps"/><attr format="float" name="cpv_startAngle"/></declare-styleable>
+    <dimen name="cpv_default_thickness">4dp</dimen>
+    <integer name="cpv_default_anim_duration">4000</integer>
+    <integer name="cpv_default_anim_steps">3</integer>
+    <integer name="cpv_default_anim_swoop_duration">5000</integer>
+    <integer name="cpv_default_anim_sync_duration">500</integer>
+    <integer name="cpv_default_max_progress">100</integer>
+    <integer name="cpv_default_progress">0</integer>
+    <integer name="cpv_default_start_angle">-90</integer>
+    <!-- From: file:/C:/Users/Rahat/Git/CircularProgressView/circularprogressview/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CircularProgressView</string>
+</resources>

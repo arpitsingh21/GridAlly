@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ripple="http://schemas.android.com/tools">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+android:layout_marginTop="90dp"
+
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"  >
+
+    </android.support.v4.view.ViewPager>
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+
+
+        >
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/Theme.Design.Light"
+>
+
+
+
+
+
+                <ImageView
+                    android:layout_width="?android:actionBarSize"
+                    android:layout_height="?android:actionBarSize"
+                    android:src="@drawable/logout"
+                    android:id="@+id/logout"
+                    android:layout_gravity="end"
+                    android:padding="10dp"
+                    />
+
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="?android:actionBarSize"
+                    android:layout_height="?android:actionBarSize"
+                    android:src="@drawable/guest"
+                    android:id="@+id/User"
+                    android:layout_gravity="end"
+                    app:civ_border_color="#fff"
+                   app:civ_border_width="3dp"
+                    android:padding="10dp"
+                    />
+
+
+
+
+
+
+
+
+
+
+    </android.support.v7.widget.Toolbar>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fff"
+            android:elevation="20dp"
+
+            app:tabMode="fixed"
+            app:tabGravity="fill"/>
+    </android.support.design.widget.AppBarLayout>
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fab1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="31dp"
+        android:src="@drawable/ic_menu"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

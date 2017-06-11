@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.parse"
+    android:versionCode="1"
+    android:versionName="1.15.7" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application />
+
+</manifest>

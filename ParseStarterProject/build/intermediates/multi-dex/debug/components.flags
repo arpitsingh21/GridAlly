@@ -1,0 +1,41 @@
+-injars 'F:\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'F:\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Arpit\AppData\Local\Android\sdk\build-tools\25.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'F:\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.parse.starter.StarterApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.parse.starter.MainActivity {
+    <init>();
+}
+
+-keep class com.parse.starter.HomeActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

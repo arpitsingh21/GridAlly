@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\10.2.6\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\10.2.6\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\10.2.6\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\10.2.6\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+    }
+]

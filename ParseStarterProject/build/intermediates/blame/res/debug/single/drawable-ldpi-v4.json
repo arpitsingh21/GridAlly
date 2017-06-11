@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_assignment_ind_black_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_assignment_ind_black_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_face_black_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_face_black_24dp.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_credit_card_black_24dp.png",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_credit_card_black_24dp.png"
+    }
+]

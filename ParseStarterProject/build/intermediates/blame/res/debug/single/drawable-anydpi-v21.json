@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_credit_card_black_24dp.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_credit_card_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_face_black_24dp.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_face_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_assignment_ind_black_24dp.xml",
+        "source": "F:\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_assignment_ind_black_24dp.xml"
+    }
+]

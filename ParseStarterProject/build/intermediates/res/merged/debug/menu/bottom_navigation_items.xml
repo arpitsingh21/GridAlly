@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_item1"
+        android:icon="@drawable/ic_credit_card_black_24dp"
+        android:title="Feeds"/>
+    <item
+        android:id="@+id/action_item2"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="Friends"/>
+    <item
+        android:id="@+id/action_item3"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="Your Uploads"/>
+</menu>

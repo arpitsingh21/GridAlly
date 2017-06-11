@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.parse.starter"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="com.parse.starter.AppController"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme" >
+        <meta-data
+            android:name="com.parse.SERVER_URL"
+            android:value="http://ec2-13-126-36-210.ap-south-1.compute.amazonaws.com:80/parse" />
+        <meta-data
+            android:name="com.parse.APPLICATION_ID"
+            android:value="714c61afd4a124fbc19bc26d55e3cb10a514adfb" />
+        <meta-data
+            android:name="com.parse.CLIENT_KEY"
+            android:value="b05452290d8ab2cffc763503e0f4f85d3fc21c15" />
+
+        <activity
+            android:name="com.parse.starter.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.parse.starter.HomeActivity" />
+    </application>
+
+</manifest>
